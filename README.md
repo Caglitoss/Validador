@@ -1,6 +1,6 @@
 # 📋 Validador Estructural de Reportes Offline con IA Local
 
-Sistema inteligente para validar reportes académicos mediante Machine Learning e IA Generativa Local. Detecta secciones, valida estructura, cuenta palabras y proporciona retroalimentación detallada usando modelos ejecutados completamente en el equipo local.
+Sistema inteligente para validar reportes académicos mediante Machine Learning e IA Generativa Local. Detecta secciones, valida estructura, cuenta palabras (a medias) y proporciona retroalimentación detallada usando modelos ejecutados completamente en el equipo local.
 
 Su objetivo es asegurar que los reportes académicos cumplan con estándares de estructura y contenido, manteniendo la privacidad de los datos al operar de forma completamente local.
 
