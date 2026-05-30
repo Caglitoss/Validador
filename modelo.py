@@ -190,5 +190,17 @@ target_names=mlb.classes_
 )
 
 
+import joblib
+
+# Guardar modelo
+joblib.dump(modelo, "modelo.pkl")
+
+# Guardar vectorizador
+joblib.dump(vectorizador, "vectorizador.pkl")
+
+# Guardar MultiLabelBinarizer
+joblib.dump(mlb, "mlb.pkl")
+
+print("Modelo guardado correctamente")
 
 
